@@ -17,7 +17,7 @@
  
 
 #### Features 
-List of movies
-Title, synopsis
-favorite section
-IMDb ratings and reviews.
+1. List of movies
+2. Title, synopsis
+3.favorite section
+4.IMDb ratings and reviews.
